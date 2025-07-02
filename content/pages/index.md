@@ -17,13 +17,15 @@ sections:
       Hi! I'm Mariam Pesvianidze. I direct, I produce, I create. And I refuse to
       shut up.
     subtitle: >-
-      I’ve spent over a decade building projects from noise, challenges, and
-      truth. I often document what hurts, what resists, what’s being erased. I
-      create space for voices that don’t fit in neat little boxes. I build my
-      work from curiosity and memory.
+      With over a decade of experience, my work is built from noise, challenges,
+      and truth.
 
-      Whether it’s art, history, or everyday lives — I look for what pulses
-      beneath the surface.
+      It often centers on what hurts, what resists, what’s being erased.
+
+      I create space for voices that don’t fit in neat little boxes.
+
+      Driven by curiosity and memory, I explore stories across art, history, and
+      everyday life — always looking for what pulses beneath the surface.
 
       I tell stories not to explain, but to reveal.
     styles:
