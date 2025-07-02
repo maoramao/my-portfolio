@@ -13,9 +13,10 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: >-
-      Hi! I'm Mariam Pesvianidze. I direct, I produce, I create. And I refuse to
-      shut up.
+    title: |-
+      Mariam Pesvianidze
+      Director & Visual Storyteller
+      Exploring what pulses beneath the surface.
     subtitle: >-
       With over a decade of experience, my work is built from noise, challenges,
       and truth.
