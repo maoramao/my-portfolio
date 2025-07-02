@@ -23,9 +23,7 @@ sections:
       I create space for voices that don’t fit in neat little boxes.
 
       Driven by curiosity and memory, I explore stories across art, history, and
-      everyday life — always looking for what pulses beneath the surface.
-
-      I tell stories not to explain, but to reveal.
+      everyday life and tell stories not to explain, but to reveal.
     styles:
       self:
         height: auto
