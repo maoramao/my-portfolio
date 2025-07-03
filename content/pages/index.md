@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: "Mariam Pesvianidze\_ \_ \_ \_ \_ Director & producer\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Exploring what pulses beneath the surface"
-    subtitle: "With over a decade of experience, my work is built from noise, challenges, and truth.\_ It often centers on what hurts, what resists, what’s being erased.\nI create space\_ \_ \_for voices that don’t fit in neat little boxes.\nDriven by curiosity and memory,\_ \_ \_ \_ I explore stories across art, history, and everyday life and tell stories not\_ \_ \_ \_ \_ to explain, but to reveal."
+    subtitle: "With over a decade of experience, my work is built from noise, challenges, and truth.\_ It often centers on what hurts, what resists, what’s being erased.\nI create space for voices that don’t fit in neat little boxes.\nDriven by curiosity and memory,\_ \_ \_ \_ I explore stories across art, history, and everyday life and tell stories not to explain, but to reveal."
     styles:
       self:
         height: auto
