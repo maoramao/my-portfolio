@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: "Mariam Pesvianidze\_ \_ \_ \_ \_ Director & producer\_ \_                          Exploring what pulses\_\_beneath the surface"
+    title: "Mariam Pesvianidze\_ \_ \_ \_ \_ Director & producer\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Exploring what pulses\_\_beneath\_ \_ \_ \_ \_ the surface"
     subtitle: "With over a decade of experience, my work is built from noise, challenges, and truth.\_ It often centers on what hurts, what resists, what’s being erased.\nI create space\_ \_ \_for voices that don’t fit in neat little boxes.\nDriven by curiosity and memory,\_ \_ \_ \_ I explore stories across art, history, and everyday life and tell stories not\_ \_ \_ \_ \_ to explain, but to reveal."
     styles:
       self:
