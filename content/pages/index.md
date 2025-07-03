@@ -53,7 +53,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/177299668_5700035133370727_5279225334959821472_n.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
